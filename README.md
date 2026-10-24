@@ -46,4 +46,4 @@ An end-to-end interactive Power BI Sales Analysis Dashboard designed to evaluate
 
 ## **Acknowledgments**
 
-A special thank you to @satishdhawale Sir and Skill Course for their comprehensive mentorship on Power Query data transformation, DAX modeling, and professional Power BI dashboard design.
+A special thank you to @SatishDhawale Sir and Skill Course for their comprehensive mentorship on Power Query data transformation, DAX modeling, and professional Power BI dashboard design.
